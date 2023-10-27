@@ -1,6 +1,8 @@
 # Emotion_Recog_Deep_Neural_Networks
 Class project for CS231N
 
+Project presentation at "https://youtu.be/mYM9DRypGQk"
+
 Project code repo can be found here:
 https://github.com/julieeF/CS231N-Project
 
